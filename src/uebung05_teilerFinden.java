@@ -1,8 +1,8 @@
 
-public class uebung5_teilerFinden {
+public class uebung05_teilerFinden {
 
 	public static void main(String[] args) {
-		 
+		
 		int zahl = 11;
 		int teiler = 2;
 		
@@ -14,7 +14,7 @@ public class uebung5_teilerFinden {
 			
 			teiler++;
 		}
-		
-		
+
 	}
+
 }
